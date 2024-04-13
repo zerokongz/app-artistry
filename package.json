@@ -1,0 +1,15 @@
+{  
+  "name": "app-artistry",  
+  "version": "9.8.7",  
+  "description": "app文件的自检",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/app-artistry"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/app-artistry"  
+}
